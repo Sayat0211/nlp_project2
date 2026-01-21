@@ -1,1 +1,1 @@
-# nlp_project2
+This project focuses on classifying news articles using basic NLP techniques. The dataset contains news texts grouped into four categories: world, sport, business, and sci/tech. The text data was cleaned, lowercased, tokenized, and transformed using TF-IDF. Several models were tested, including SVM, Multinomial Naive Bayes, and Random Forest. In addition, a GRU-based neural network was implemented to work with text sequences. The models were evaluated using standard metrics such as accuracy and F1-score.
